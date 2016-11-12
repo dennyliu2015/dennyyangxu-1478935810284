@@ -3,6 +3,6 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: dennyyangxu-1478935810284
-  host: drivecar
+  name: dennyyangxu
+  host: dennyyangxu
   disk_quota: 1024M
